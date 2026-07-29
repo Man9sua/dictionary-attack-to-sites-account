@@ -2,9 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-login_url = 'https://eduway.kz/login'
-username = "Mansua"
-password_file = "pythonprjcts/workingforce/passs.txt"
+login_url = '[loginpage]'
+username = "[username]"
+password_file = "../passs.txt"
 
 start_time = time.time()
 
